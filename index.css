@@ -1,4 +1,8 @@
 body{
     text-align: center;
-    color: blue;
+}
+
+#dl{
+    font-weight: bolder;
+    text-align: left;
 }
